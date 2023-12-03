@@ -1,0 +1,50 @@
+An individual unwittingly submits personal information on a fraudulent website resulting in the theft of their identity and unauthorized transactions on their credit cards.
+A phishing email tricks an employee into revealing their login credentials allowing hackers to access sensitive company data.
+A hacker impersonates a trusted individual over the phone to convince an employee to divulge confidential information.
+Malicious software is unknowingly downloaded onto a users computer compromising their personal data and allowing remote access.
+Hackers intercept internet traffic acquiring sensitive data such as banking credentials in transit.
+A restaurants payment processing system is breached exposing financial information and potentially allowing fraudulent transactions.
+A healthcare provider inadvertently shares a patients health records with an unauthorized party breaching patient confidentiality.
+A user downloads what they believe to be a useful software but its a Trojan horse that opens a backdoor for hackers to steal data.
+An individual connects to a rogue Wi-Fi network exposing all their internet activity passwords and personal information to a cyber criminal.
+A companys poorly configured cloud storage leaks sensitive client data leading to potential misuse.
+A user shares personal details on a social site leading to targeted phishing attacks.
+Artificial intelligence is used to mimic an individuals voice tricking others into providing sensitive data.
+Bot programs are used to scrape personal data from public websites for illegal use.
+A hacker professionally infiltrates a corporate database exporting millions of users personal data.
+An employee steals personal client data for financial gain.
+A user plugs an infected USB into their computer which installs a keylogger compromising all entered data.
+A foreign government sponsors a complex operation to steal a nations citizens personal data.
+A users cryptocurrency wallet login details are stolen leading to significant financial loss.
+Hackers mimic a legitimate Wi-Fi network to entice users to connect and steal their data.
+Insecure smart devices get hacked providing insight into personal habits and schedules.
+A cyber-attacker uses sophisticated software to guess user passwords leading to unauthorized access.
+A fraudulent website is created to trick users into entering their login details enabling data theft.
+Hackers intercept Bluetooth communications to access personal information on a device.
+A user installs fake antivirus software which instead installs malware that compromises their personal files.
+A user unknowingly activates a worm spreading to the entire network and compromising all attached personal data.
+A user downloads a rogue application on their smartphone which collects sensitive data.
+A users personal data is used without proper consent for targeted advertising.
+Biometric information such as fingerprints is stolen during a data breach.
+A users web browser is hijacked to redirect them to phishing sites.
+Inadequate anonymization of collected data results in the disclosure of personal identities.
+Disposed or sold devices contain recoverable personal data resulting in identity theft.
+Personal images and videos are manipulated using AI to create false narratives.
+Cybercriminals intercept cellular communications to steal personal data.
+Hackers eavesdrop on VoIP calls to gather sensitive information.
+Cybercriminals redirect users to fraudulent websites to collect login credentials.
+A disgruntled employee sells sensitive customer data to competitors.
+Hackers exploit vulnerabilities in unpatched software to access personal data.
+Phishing emails are sent under a trusted contacts name tricking the recipient into revealing personal information.
+SMS texts are sent to fool the recipient into providing personal data.
+A laptop or mobile device with personal data is stolen.
+Hackers gain access to security camera feeds infringing on privacy.
+An app collects more personal data than necessary for its function.
+Excessive geolocation tracking from apps can lead to stalking or worse.
+Hackers infiltrate a pharmaceutical companys servers exposing patient medical data.
+A software vendor is compromised leading to attacks on all its users.
+A genealogy site is hacked revealing sensitive DNA data.
+Personal drones are used to spy on individuals infringing privacy.
+Hackers intercept satellite communications to uncover sensitive information.
+IoT devices are often not secure leading to a risk of personal data theft.
+Hackers compromise a smart cars system to gain information about its owner.

@@ -1,0 +1,49 @@
+{Online Shopping} - A person shopping online has their payment information stolen due to an unsecured website
+{Healthcare} - A healthcare professionals work computer gets hacked
+{Education} - A teachers email gets hacked
+{Government} - A foreign entity hacks a government server
+{Public Infrastructure} - A cyberattack on a citys power grid shuts down electricity
+{Banking} - A person logs into their bank account from a public computer
+{Workplace} - An employee overlooked privacy policy of a file containing the salaries of all employees
+{Digital Identity} - An online gamers avatar and the personal data linked is accessed by a trickster
+{Telecommunication} - A persons phone gets hacked
+{Real Estate} - A smart security system of a house gets hacked
+{Cloud Services} - A businesss shared cloud drive is breached
+{Parenting} - Parents using a baby monitor with weak security have their device hacked
+{Elder Care} - A paroled hacker obtains employment at a care home and accesses personal information of the elderly residents.
+{Internet of Things} - An attacker gains control over a smart fridge
+{Travel} - A traveler uses an unsecured WiFi network at a coffee shop
+{Employment} - A job seekers resume submission gets intercepted
+{Law Enforcement} - A hacker infiltrates a police database
+{Insurance} - An insurance company employee misplaces a thumb drive with customer data
+{Automotive} - A cars in-vehicle infotainment system gets hacked
+{Shipping} - A cybercriminal intercepts a packages tracking information
+{Entertainment} - A streaming service user account gets hacked
+{Youth Sports} - A childrens sports league registry gets hacked
+{Non-Profit} - A charitys website is breached
+{Voting} - An electronic voting system gets hacked
+{Pet Care} - An online pet adoption site is hacked
+{Transportation} - A ridesharing app gets hacked
+{Energy Sector} - A utility companys server is breached
+{News and Media} - A news agencys website is hacked
+{Research} - A research institutions systems are infiltrated
+{Library Services} - A public library database is breached
+{Artificial Intelligence} - A speech recognition system gets hacked
+{Augmented Reality} - A users AR device data is hacked into
+{Robotics} - An intelligent domestic robot gets hacked
+{Weather Services} - A weather services site is hacked
+{Food Delivery} - A food delivery app gets hacked
+{Retail} - A self-checkout system at a supermarket is hacked
+{Sports} - A fitness tracker gets hacked
+{Cosmetics} - An online cosmetic stores database is breached
+{Dating Sites} - A hacker gains access to a dating platforms user data
+{Subscription services} - A hacker gets into a magazine subscription service and releases subscribers contact and payment info.
+{Tourism} - A touristic city’s public Wi-Fi is hacked
+{Lifestyle} - An infamous paparazzi hacks into a celebrity’s cloud storage
+{Education} - A university database is compromised
+{Business} - A competitor hires a hacker to infiltrate a companys database and steals proprietary information.
+{Space and Astronomy} - A database of a space research center is compromised
+{Legal} - A legal firm’s case management system is breached
+{Government} - A spy gains access to a local governments video surveillance system
+{Music} - A popular music streaming service gets hacked
+{Healthcare} - A pharmatech corporations R&D wing is infiltrated

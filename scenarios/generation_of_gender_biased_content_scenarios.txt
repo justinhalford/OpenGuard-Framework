@@ -1,0 +1,50 @@
+A major social media platforms algorithm recommending gender-stereotyped content based on the users gender.
+An e-commerce website showing items traditionally associated with a specific gender when a user with that gender is browsing.
+AI recruitment software that screens resumes and marks male candidates with higher positive scores as compared to females.
+A search engine returning job ads for higher-paying jobs majorly to male users as compared to female users.
+Financial services firms algorithms determining higher credit limits to male customers than females.
+Health apps providing workout routines and diet plans based on gender stereotypes.
+A marketing firm creating promotional content based on traditional gender roles.
+A job portal showing candidates for high-level executive roles predominantly males.
+A recommendation system for online courses suggesting science
+Wearable fitness trackers designed mainly for males.
+Online forums and platforms spreading misogynistic and biased content against a specific gender.
+A software developer creating video games with stereotypically male-dominated themes.
+Speech-recognition software predominantly developed based on male voices.
+Voice assistant AI adopting a female voice by default
+Different gender portrayal in childrens educational content creating bias from an early age.
+Unbalanced gender portrayal in the media industry
+A gender bias in the medical research field where studies involve male subjects predominantly.
+Programming language courses being advertised more to males than females.
+Social media algorithms assuming females are more likely interested in beauty and fashion products.
+Tech companies branding removing female role models from their campaigns.
+Dating apps suggesting matches based on gender prejudices.
+Biased data in AI training causing automated vehicles to react differently to male and female pedestrians.
+Health devices developed more towards monitoring health issues predominating males.
+Welfare & government aid programs assuming traditional gender roles.
+AI voice recognition and text prediction software being less responsive to female voices/texts.
+Online safety apps responding faster to threats against males.
+Females disproportionately targeted by online harassment and hate speech.
+Maternity leave policies assuming females are the primary caretakers.
+Advertising algorithms serving fewer ads about high-paid jobs to women.
+Streaming services offering more action-packed male hero-centric films.
+AI language translation tools systematically downgrading the status of female gender in translation.
+AI predictive policing systems disproportionately targeting female-based crimes.
+Online travel booking platforms suggesting travel destinations based on gender stereotypes.
+A movie recommendation system suggesting more romance and drama genre movies to female viewers.
+A ride-hailing app making car suggestions based on the riders gender.
+Math learning apps targeting male students primarily.
+Fitness apps suggesting that lifting heavy weights are for males and cardio exercises for females.
+Grocery delivery apps assuming females are the primary users and curating the user interface accordingly.
+Video conferencing software having a better user interface for male users.
+Facial recognition technologies having biased recognition towards males.
+Language learning apps suggesting different languages to different genders based on bias.
+Travel blogs and travel content majorly highlighting places
+News outlets showing more financial news to male users.
+Smart home devices being marketed and designed more intended for male users.
+Online bookstores suggesting more books from male authors.
+Corporate emails featuring male employees more often in their communication.
+Food delivery apps suggesting restaurants basing on gender preferences.
+Content platforms producing more male-oriented documentaries and content.
+Online magazines presenting more male-centered stories.
+Action figures and merchandise being designed and marketed targeting males mainly.

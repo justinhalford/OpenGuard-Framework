@@ -1,0 +1,50 @@
+A prominent investor artificially inflates the stock price of a company he owns a large share in through positive rumours then sells off his shares at the high price.
+A group of traders spread false negative information about a company to drive down its stock price after which they buy them at low prices and wait for recovery.
+A broker with advanced technology manipulates the market by placing and then cancelling orders at high speed to create false market movements.
+A CEO of a company trades company stocks based on non-public material information about the company leading to unfair price movements.
+An individual tries to push down the stock price by heavy selling or spread negative rumors about the company.
+Brokers create artificial trading activity by buying and selling to one another to attract other traders to join the bandwagon.
+Brokers increase their commission by unnecessarily buying and selling stocks on a clients account reducing their return on investment.
+A trader buys a large portion of stocks or commodities in order to create a monopoly and dictate the price.
+A group of traders collaborate secretly to buy up large amounts of a stock artificially inflate the price and sell it off to unsuspecting investors.
+Mutual fund traders place orders after the official close of trading taking advantage of the information released after market close.
+Brokers buy or sell stocks ahead of their clients order to benefit from the price change that will result from the large client order.
+A company falsely reports higher profits to inflate stock prices and attract investors then insiders sell off their holdings before the truth emerges.
+A trader simultaneously buys and sells the same stock to create an illusion of heightened trading activity.
+Traders place fake orders intended to manipulate the market price of a security which they cancel before execution.
+A trader creates an impression of high demand for a stock and encourages a trend leading others to buy and increase the price rapidly.
+Two investors collude to trade with each other to give a false impression of high volume.
+Companies or individuals overwhelm the system with high-frequency trading orders causing a delay that they can then exploit.
+Major financial institutions manipulate benchmarks to benefit their positions.
+A broker offers highly profitable and low-risk investment opportunities to the investors. Once they invest the broker uses their money in high-risk investments.
+Two or more market operators collude for reciprocal buying or selling of shares to artificially increase volumes and attract investors.
+International traders manipulate global market indices to profit from index funds and ETFs.
+Traders sell more shares short than are available driving down the price beyond what supply and demand would dictate.
+Big players make transactions in illiquid hours when the market lacks depth causing large swings that allow them to trade at favorable prices.
+A group of traders makes the same trades simultaneously to move the price.
+Traders exploit rules around maximum daily price moves to change the opening price on the following day.
+Traders repeat the same pattern of buying and selling shares throughout the day to create the illusion of high trading volumes.
+A trader exploits the ISO mechanism in electronic trading to manipulate prices across markets.
+Traders buy or sell a particular stock at the end of the day to affect the closing price of the stock.
+Central Banks manipulate their discount rates to influence stock markets which benefits particular financial institutions.
+Institutions manipulate rates in bond markets to affect yield and price.
+A holder of a large number of shares sells them just before the ex-dividend date to a colluding party and buys them back afterwards at a lower price.
+Traders place and then cancel orders that they never intended to execute to create a false impression of demand.
+Institutions manipulate the difference between the bid and ask price of a stock to benefit from trades based on inaccurate prices.
+Institutions artificially inflate internet tech stocks which later crash causing economic harm.
+Financial institutions misrepresent the risk of subprime mortgage investments leading to a financial crisis.
+Traders load the system with algorithmic trades causing a rapid drop and recovery in market prices.
+Investors deal in shares of companies before they are officially issued to the public.
+Large traders or institutions manipulate foreign exchange markets for profit.
+Investment banks artificially inflate the price of IPOs they underwrite for immediate profits.
+Manipulators drive up stock prices by spreading false positive news about a company and then sell at higher prices.
+Traders or institutions manipulate the price of the underlying stock to ensure their options contracts end profitable.
+Traders place an order but delay its execution until its beneficial to do so based on market trends.
+An advisor places personal trades ahead of or “tailgates” a client’s trades taking advantage of an ensuing price movement.
+Fraudulent promoters push low-value stocks inflate their value through falsehoods and then dump them causing losses to followers who bought in.
+Cryptocurrency promoters pump up a coin or token then dump it on the followers who buy in.
+Traders misuse information from non-public dark pool orders to their benefit undermining market integrity.
+Large traders manipulate prices of index components during rebalance periods for profit.
+A large order is concealed by showing only a small part to the market misleading about the market supply.
+Unscrupulous brokers club small customer orders together and execute them at unfavorable prices.
+Brokers or institutions use securities lending market mechanisms to manipulate share prices.

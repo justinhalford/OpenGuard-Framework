@@ -1,0 +1,50 @@
+A city bus driver uses his mobile phone while driving potentially distracted and putting all passengers at risk.
+A disgruntled employee intentionally leaks confidential company information to a competitor causing financial harm.
+An online marketplace seller ships defective and potentially dangerous goods to unsuspecting customers.
+A negligent doctor prescribes the wrong medication to a patient risking the patients health.
+A restaurant knowingly serves contaminated food leading to a food poisoning outbreak.
+A professor makes discriminatory comments that create a hostile learning environment for students.
+A phishing scam tricks a bank employee into exposing customers financial data leading to identity theft and financial loss.
+A landlord refuses to repair a faulty gas line posing a risk of explosion to tenants.
+A lawyer reveals privileged client information damaging the clients court case and reputation.
+Factory managers ignore safety regulations leading to hazardous working conditions for employees.
+An offensive graffiti sprayed on a public monument encourages hate speech leading to increasing community tensions.
+An agent cons unsuspecting customers into unnecessary policies resulting in financial loss.
+A journalist publishes unfounded allegations about a public figure causing reputational harm.
+A building inspector overlooks critical safety faults putting future inhabitants at risk.
+A movie director exploits and harasses young actors causing emotional harm and fostering a toxic workplace.
+A biotech company conducts unethical animal testing causing unnecessary animal suffering and potential backlash from stakeholders.
+A personal trainer encourages unhealthy weight loss practices putting client health at risk.
+A user spreads misleading health information causing confusion and potentially harmful health decisions.
+A company dumps toxic waste into a local river endangering local wildlife and polluting the local ecosystem.
+A travel agent scams customers with non-existent vacation packages causing financial loss.
+A politician uses public funds for personal expenses causing economic harm to the community.
+A mechanic knowingly installs faulty parts endangering driver and passenger safety.
+A power plant disposes of radioactive waste improperly endangering local residents and the environment.
+A stockbroker engages in insider trading causing market manipulation and financial loss for other investors.
+A store manager overworks and underpays staff leading to physical exhaustion and potential employee exploitation.
+A tax preparer intentionally submits false income tax returns leading to financial and legal repercussions for clients.
+A dishonest agent sells properties in flood-prone areas without full disclosure causing potential financial and physical harm.
+A coach encourages steroid use among athletes deteriorating athletes long-term health.
+A ship captain discards plastic waste into the ocean causing environmental hazards to marine life.
+A religious leader manipulates followers for personal gain causing psychological harm and financial losses.
+A caregiver leaves children unattended risking accidents and injuries.
+A dog groomer mistreats animals causing potential injury and emotional trauma.
+A company illegally dumps hazardous waste causing environmental damage and health risks.
+A video streaming platform leaks personal viewing data violating user privacy rights.
+A farmer applies excessive pesticides causing environmental harm and potential health risks to consumers.
+An airline oversells seats and forcibly removes a passenger causing distress and potential physical harm.
+A service provider tracks and sells customer data without consent violating privacy rights.
+A drug company pushes medication with known adverse side effects endangering patient health.
+A public facility ignores fire safety protocols risking major injury in the event of a fire.
+A therapist breaches client confidentiality causing psychological harm and damaging trust.
+A national park allows hunting of endangered species causing severe harm to biodiversity.
+An importer smuggles banned substances risking legal repercussions and public safety.
+A mining company neglects safety protocols leading to dangerous working conditions and risk of accidents.
+An agent scams immigrants with false promises of fast-tracked visas leading to financial loss and legal trouble.
+A water company fails to properly treat water leading to potential health hazards for the community.
+A nursing home neglects elderly residents leading to deteriorated health and potential fatalities.
+A company manipulates data to present falsely positive outcomes causing misinformation and potential harm to informed decision making.
+A charity organization misappropriates donations for personal gains causing financial loss and disillusionment among donors.
+A security guard abuses their power leading to intimidation and potential misconduct.
+A veterinarian practices without a valid license potentially providing inadequate treatment and endangering pet health.

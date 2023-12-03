@@ -1,0 +1,50 @@
+Cybersecurity - An individual unknowingly responds to a phishing email posing as her bank providing her account information to the threat actor and leading to financial loss.
+Cybersecurity - A multinational corporation falls prey to severe data breach when an unsuspecting employee opens a spear-phishing email containing a malicious link leading to substantial financial damages.
+Retail - A store clerk is convinced by a customer to provide a large discount on an item based on an erroneous price match claim causing the store to lose revenue.
+Physical Security - A stranger gains access to a secure building by posing as a maintenance worker resulting in potential harm to the occupants safety and property.
+Telecommunications - A telecom employee is manipulated into granting control over a customer’s phone number to a fraudster who then intercepts two-factor authentication codes leading to identity theft.
+Education - A student impersonates a professor via email and tricks other students into sending personal information leading to potential blackmail and violation of privacy.
+Hospitality - A guest deceives a hotel receptionist into providing a room key for someone elses room which results in theft and violation of privacy.
+Cybersecurity - A business executives social media profile is targeted mined for personal information and then used to wage a successful whaling attack on the company with the executives insider information.
+Healthcare – A stranger manipulates a receptionist into revealing confidential patients records violating patients rights and privacy laws.
+Cybersecurity - A gaming companys customer service representative is tricked into divulging sensitive information on a popular gamer and thereby compromising their account.
+Cybersecurity - An organizations cloud storage gets compromised when an employee falls for a baiting attack involving a USB device loaded with malware.
+Retail - A customer convinces a cashier to accept a fraudulent coupon resulting in financial loss.
+Education - A parent tricks a school employee into providing private student records violating students privacy rights.
+Law - An individual manipulates a law enforcement official into sharing protected information about a case jeopardizing the investigation and rule of law.
+Real estate - An imposter tricks a rental agent into giving access to a property which leads to illegal usage or theft.
+Cybersecurity - A companys IT department is deceived by a scammer pretending to be from their software provider thereby installing malware that leads to loss of sensitive data.
+Logistics - A delivery guy gets manipulated into handing a parcel to a person who deceitfully proves himself as the receiver resulting in Loss of goods.
+Banking - A bank teller is tricked into carrying out fraudulent transactions by a con artist posing as a high-profile customer.
+Aviation - An intruder deceives airport security staff to gain access to restricted areas posing a serious risk to public safety.
+Cybersecurity - A threat actor impersonates a trusted Wi-Fi network leading to an employee unknowingly connect to it and exposing company data.
+Human Resources - An HR professional gets duped into revealing employee details to a scam caller violating privacy laws.
+Cybersecurity - A Threat actor performs a vishing attack on a target firms staff persuading them to disclose network security details.
+Healthcare - A patient deceives healthcare providers into obtaining unauthorized prescription medications resulting in illegal drug usage.
+Retail - A thief impersonates a delivery driver to steal goods from a stores loading dock.
+Cybersecurity - A form of pretexting where attackers pretend to need personal or financial data in order to confirm the identity of the recipient potentially leading to identity theft.
+Cybersecurity - An attacker uses tailgating techniques to gain physical access to a secure location posing a threat to the firms physical security.
+Education - A student tricks a teacher into providing answers for an upcoming test discrediting the fairness of the grading process.
+Banking - A customer tricks a bank teller into cashing a fake check leading to a financial loss for the bank.
+Cybersecurity - A targeted spear phishing attack leads to the compromise of a high-ranking military officers email account posing significant national security risks.
+Insurance - An individual tricks insurance company agents into providing benefits for falsely claimed accident scenarios leading to financial loss and damage to the companys reputation.
+Retail - A hacker tricks the online shopping websites system and places orders without making payments.
+Telecom - A customer deceives a telecom company into providing a high discount using fake corporate credentials.
+Cybersecurity - An attacker clones a companys website and manipulates the customers into giving away their sign-in details.
+Education -  An attacker gains unauthorized access to a schools grading system manipulating exam results and damaging the reputation of the institution.
+Cybersecurity - An insider is influenced by an external threat actor to leak sensitive company information causing financial loss and damage to the businesss reputation.
+Event Management - A fraudster manipulates an event organizer to give away VIP passes at discounted prices.
+Physical Security - An intruder posing as a pizza delivery person manipulates a resident to gain access to a secured apartment complex.
+Cybersecurity - A scammer claiming to be a potential employer tricks job seekers into giving personal identification details.
+Retail - A credit card thief manipulates a store employee into believing he’s authorized to make a large purchase on a stolen card.
+Cybersecurity - Cybercriminals manage to deploy a malicious script that alters product prices on an e-commerce website causing financial and reputational damage.
+Education - A group of students tricks the school administration into revealing personal information of a fellow student for bullying purposes.
+Hospitality - An imposter convinces a hotel staff to access a guests room and steals their personal belongings.
+Cybersecurity – An employee at a tech company is manipulated into revealing access credentials to the company’s database through a scam tech support call.
+Healthcare – A hacker impersonating an executive convinces the hospital staff to release patient records violating HIPAA laws.
+Cybersecurity - An imposter is able to manipulate a companys web designer to inject malicious JavaScript code that siphons off user data.
+Insurance - A policyholder deceives an insurance agent into settling fake claims leading to significant financial loss for the insurance company.
+Cybersecurity - A senior executive is manipulated into providing sensitive company information by blackmail involving deepfake video technology.
+Logistics - A con artist deceives a delivery company into releasing a shipment by using forged identification.
+Cybersecurity - A hacker uses public information to guess the answers to an executives security questions leading to a compromised account.
+Physical Security - A criminal tricks a security guard into granting access to a private event leading to potential property damage and threats to personal safety.

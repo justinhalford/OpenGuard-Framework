@@ -1,0 +1,50 @@
+An internet users credit card details are stolen due to a security breach on a shopping website leading to several fraudulent charges.
+A person receives an email from a seemingly trusted source asking for personal information. Unaware that it is a phishing attempt they share sensitive data leading to potential identity theft.
+A network provider suffers a data breach exposing personal data of millions of subscribers creating a massive risk for their customers.
+A laptop holding sensitive business data is stolen potentially leading to detrimental usage of the information.
+A renter discovers hidden cameras in their vacation rental house causing a privacy invasion.
+A popular social networking site sells user data to third-party marketers without the users consent leading to increased spam calls and targeted ads.
+A database containing biometric data gets hacked risking potentially irrevocable privacy invasion.
+A smart home device is used to eavesdrop on private conversations without the users knowledge.
+A mobile app tracks and records a users movements without their consent resulting in an egregious violation of privacy.
+A cloud storage service is hacked exposing confidential user files photos and documents.
+Personal information is extracted from hacked email accounts leading to potential misuse of sensitive data.
+A hacker gains control over home security cameras creating potential personal safety issues.
+Unauthorized third parties use cookies to monitor an individuals web browsing behavior for targeted ads.
+A public place uses facial recognition technology without users consent breaching privacy norms.
+An educational app leaks children’s data to advertising companies violating legal protection for children’s data privacy.
+A disgruntled employee at a hospital gains unauthorized access to patients medical records.
+A hacker uses social engineering techniques to trick an individual into sharing his password or security question.
+Employers monitor employees computer activity without their consent.
+A person starts receiving threats from an unknown person who has hidden a GPS tracker in their car.
+Someone uses a thermal camera to determine the occupancy and living habits of a household posing potential burglary risks.
+A persons call logs are accessed and leaked without their consent.
+A genetic testing company sells customer data to insurance companies without consent potentially leading to increased premiums or denied coverage.
+Unauthorized individuals use deepfake technology to clone a CEOs voice to manipulate stock prices.
+An IM platform fails to adequately encrypt conversations allowing unauthorized access.
+Personal fitness data and location information of users are exposed potentially revealing sensitive information about their health conditions and routine patterns.
+Unauthorized and illegal surveillance of citizens by government agencies leads to mass violation of privacy.
+Third-party apps are found to be reading emails of a popular email service wrapper users leading to potential leakage of sensitive data.
+A smartphone app is caught listening to users through smartphones microphone for targeted advertising.
+A school is caught tracking and recording students online activities outside of school without parents consent.
+Personal data left on paper at public places gets picked up by someone with malicious intent.
+A person gains unauthorized access to therapist notes potentially causing mental health issues or reputational damage.
+A smart TV brand admits to collecting viewing habit data without user consent for advertising.
+A VoIP service providers server is hacked and personal phone conversations are recorded.
+An ex-partner posts intimate images online without consent.
+An airline uses passenger data for targeted advertising without obtaining explicit consent.
+An employee at a bank leaks customers financial data for personal gain causing financial harm to the banks customers.
+A software company transfers user data across its servers without proper encryption creating a potential threat.
+An app records users screen without their consent including interactions with other apps.
+An insurance company uses data obtained without consent to profile customers and adjust premiums.
+Hackers gain access to unsecured baby monitors to spy on households.
+A popular dating app leaks users locations in real-time without their consent posing potential stalking risks.
+Unauthorized use of data captured by automated license plate readers is used to track individuals movements.
+Personal thought diaries kept in cloud are accessed by an unauthorized person potentially leading to emotional distress.
+Unauthorized use of AI to create deepfakes of celebrities causing reputational harm.
+Drafts of yet-to-be-presented laws are leaked causing mass unrest and potential political chaos.
+Hackers breach the firewall of a nuclear power plant potentially causing a catastrophe.
+A soldiers personal information is leaked possibly putting their family at risk and compromising national security.
+A radio communication service forgets to encrypt its signals leading to conversations including sensitive military discussions being intercepted.
+A high-ranking official’s private communications are breached risking national security and creating potential diplomatic issues.
+A high-profile website custodians lax security controls lead to breach of customers personal information causing mass online fraud affecting millions.

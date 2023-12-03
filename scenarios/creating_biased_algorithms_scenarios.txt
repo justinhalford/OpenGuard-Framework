@@ -1,0 +1,50 @@
+A big data firm develops an AI algorithm to filter job candidates but its biased training data leads to discrimination against female applicants creating a gender imbalance in the workforce.
+A healthcare AI uses biased training data which leads it to disproportionately misdiagnose illnesses in patients from certain ethnic groups posing a significant risk to public health.
+A law enforcement agency uses a biased predictive policing algorithm that disproportionately targets racial minorities leading to civil rights abuses.
+A bank uses an AI for loan approval but it has been trained on biased data causing it disproportionately deny loans to applicants from low-income neighborhoods.
+A biased recommendation algorithm on a social media platform excessively spreads harmful misinformation leading to public harm.
+A Social Networks algorithm promotes content that demeans minority groups fostering hate and extremism.
+A companys AI-driven customer service chatbot uses biased data and starts to offend customers with inappropriate language harming the companys reputation.
+Biased training data leads an autonomous vehicles AI to react improperly to pedestrians of certain racial profiles causing several accidents.
+An insurance company uses biased algorithms to determine premiums overcharging individuals based on race or gender.
+A biased data analytics algorithm incorrectly categorizes politically moderate voters disrupting an election.
+A university uses biased algorithms to distribute scholarships unintentionally excluding qualified students from certain racial backgrounds.
+A data companys biased algorithm used by real estate firms unjustly excludes low income or minority individuals from seeing home listings.
+An AI HR system trained with biased data unjustly excludes older applicants promoting age discrimination.
+Biased Facial recognition systems used in surveillance cameras disproportionately misidentify people from certain racial or ethnic groups causing false arrests.
+A digital assistant used in millions of households is found to respond better to male voices than female suggesting a gender bias in its training data.
+AI hiring tools used by major employers systematically discriminated against the disabled.
+A poorly trained AI advertising system begins showing stereotypically gendered ads (like cleaning products for women and video games for men).
+Online video platforms algorithm promotes extreme or untruthful content contributing to radicalization.
+On an uniform salary a credit card companys algorithm gives a higher credit limit to a man than to a woman.
+E-commerce company’s algorithm shows kitchen appliances as ‘recommended’ products for women while men are shown gadgets and tools.
+A smart citys algorithm gives priority to wealthy neighborhoods for development and price drops neglecting the lower-income areas.
+A social media platform’s algorithm promotes divisive news contributing to growing polarization in society.
+A job search engines algorithm disproportionately shows high-paying job ads to men more than women.
+A biased predictive analytics tool underestimates the risk of a disease in Asian populations leading to inadequate healthcare provisions.
+An AI system biased towards certain accents results in various miscommunications and misidentifications leading to incorrect services.
+A property tech used by real estate agents favoring certain races or income groups thus exacerbating societal disparities.
+A predictive text algorithm excludes minority languages or dialects.
+An AI tool used in courts for sentencing process predicts higher risk scores for black defendants.
+An online stores pricing algorithm unfairly raises prices for customers in certain regions.
+An AI system used to dispatch emergency services takes longer to assign help to incidents reported from poor neighborhoods.
+An online rating system biased towards certain groups demeaning products and goods of certain ethnicity.
+An ed-tech companys algorithm prioritizes resources on privileged students creating educational disparities.
+A food delivery app’s biased algorithm disproportionately recommends restaurants from affluent areas.
+AI-based language translation tools unfairly influences impression about a country or culture.
+A Bookstores algorithm recommends books based on gender stereotypes.
+An AI network security system disproportionately flags innocuous activities from certain countries as suspicious.
+Weather prediction algorithm gives inaccurate forecasts for rural areas leading to loss of crop and income for farmers.
+A criminal prediction system disproportionately flags certain racial groups leading to wrongful prosecutions.
+A popular games matchmaking algorithm unfairly matches players of different skill levels based on their geographic regions.
+A voice-operated device fails more often to understand accents of non-native speakers.
+A health tracking app provide distinct results for the same symptoms in different genders.
+A beauty contest judged by AI exhibits racial bias in results.
+AI tools for farming disproportionately favors larger farms hurting small and medium scale farmers.
+A dating apps matching algorithm exhibits racial bias limiting dating prospects.
+A fitness trackers algorithm is calibrated for male physiology leading to inaccurate fitness advice for women.
+Hiring tool declining applications from individuals with uncommon names typically associated with immigrants.
+Sentiment analysis algorithms often misconstrue sentiments of social media posts in non-English languages.
+A smart home device responds better to users with deeper voices leaving children and women at a disadvantage.
+AI-optimized search algorithms on media platforms serve extremist content amidst innocuous search queries.
+Machine learning algorithms using historically male skewed clinical trials data suggest treatment regimens that are less effective for women.

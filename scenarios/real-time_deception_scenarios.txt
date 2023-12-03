@@ -1,0 +1,50 @@
+A user receives an alert about a crucial software update which is not from the authentic source but a malicious threat actor leading to the potential theft of sensitive information.
+You receive an email from a known contact asking you to transfer money or provide sensitive information. In reality their account has been compromised exposing you to financial loss or identity theft.
+Malicious ads misrepresent the functionality of an app to lure users into downloading them. Later they facilitate harmful activities like information theft.
+A hacker intercepts a communication channel between two users and deceives them into believing theyre communicating directly.
+An imposter convinces you to hand over sensitive information by impersonating a trusted institution potentially leading to identity theft.
+A fake Wi-Fi hotspot designed to look genuine steals credentials and sensitive information when a user connects to it.
+A user responds to a fake job posting resulting in the loss of personal information to a scammer.
+Hackers gaining unauthorized access to your webcam invading your privacy and potentially using the footage for blackmail.
+Online deceivers trick users into relationships and manipulate them into providing money or personal information.
+A threat actor hacks into medical equipment to disrupt its function or demand a ransom endangering patients lives.
+Thieves place a device on ATM machines that captures debit card information leading to unauthorized withdrawals and potential financial loss for the user.
+Hackers manipulate the results of an election by infiltrating the systems and altering or deleting votes causing widespread disruption and mistrust.
+Fraudulent charities take advantage of a users generosity and trick them into donating money or sharing personal information.
+An overwhelming amount of traffic is sent to a website causing it to crash hence leading to a loss of service and potential financial loss.
+Users receive malicious text messages tricking them into divulging sensitive information or clicking on malicious links.
+Online advertisements hide malware that infects a user’s device when clicked on leading to potential data loss or financial loss.
+Artificial Intelligence is used to create fake videos or audios that mimic real people causing reputation damage or potential security threats.
+A suppliers systems are compromised affecting all businesses connected to their network and potentially exposing sensitive data.
+Hackers infiltrate and surreptitiously modify the data stored within an organizations database leading to critical decision-making based on false data.
+Cybercriminals use stolen login credentials to gain unauthorized access to users accounts.
+Threat actors gain access to smart devices and use them to spy steal information or carry out other harmful actions.
+An employee exploits their authorized access to leak or steal sensitive company data compromising the entire organizations data integrity.
+High-profile individuals are targeted in sophisticated phishing attacks which lead to significant financial or reputational damages.
+Inundating users with unsolicited messages that often contain form of malware.
+State-sponsored actors launch sophisticated attacks against national infrastructure or high profile targets potentially leading to a national crisis.
+Specific websites are infected with malware in anticipation of visits from targets intending to infiltrate their network or steal data.
+Unauthorized access to a cloud account results in loss of data control and potential data breaches.
+Users are deceived into believing false information manipulating their views or actions.
+Targeted phishing attacks aim to trick specifically chosen individuals or organizations into revealing sensitive information.
+Unnoticed cryptocurrency mining software is installed in users device which utilizes their computing resources.
+Unauthorized remote access is gained into a users computer potentially leading to data theft or system damage.
+Manipulating the appearance of a web page to trick users into clicking on something potentially harmful hidden behind.
+Cybercriminals use various tools to guess or crack users passwords leading to unauthorized access to sensitive data.
+Malware that resides in memory to evade detection causing harm to the system without being detected by traditional security software.
+The DNS is manipulated to redirect a URL to a fraudulent website exposing users to potential phishing attacks.
+Cybercriminals combine real and fake information to create new identities and commit various fraudulent activities.
+Hackers exploit e-commerce websites to steal customers payment information during the checkout process.
+AI technology is used to mimic human behaviors and craft convincing phishing messages.
+Mobile applications are manipulated to perform unintended functions potentially compromising the users private data.
+An attacker gains information about a system through indirect means such as timing information or power consumption.
+Internet browser settings are changed to inject unwanted ads redirect to specific websites or steal sensitive information.
+A stealthy type of software typically malicious designed to hide the existence of certain processes or programs from normal methods of detection.
+Malware that locates and steals data directly from computer memory bypassing conventional security measures.
+AI chatbots mimicking real human support agents to extract confidential information from customers.
+An attacker poses as the CEO of a company asking employees to transfer funds or provide sensitive data.
+Fraudsters manipulate the advertising system to show irrelevant or misleading ads causing financial loss to the advertisers.
+Consumers get tricked into signing up for regular product payments after accepting a free trial.
+Fraudsters apply charges to mobile bills through shared cost services without the victims consent.
+Automated threats that utilize known vulnerabilities in systems or software to infect devices with malware.
+Malicious software posing as antivirus programs tricking users into downloading and compromising their devices.

@@ -1,0 +1,49 @@
+A cloud service provider is compromised by hackers who alter the billing methodology
+An IOT-based smart city system attacked with Spyware
+A nation-state sponsored Advanced Persistent Threat (APT) on national defense and security agencies
+Denial of Service (DoS) attack on an e-commerce website during peak sale season
+Employee’s personal laptop infected with malware which spread to business operations when connected to the office network.
+Cryptojacking attack on a cryptocurrency exchange
+Security exploit in a popular operating system enables hackers to remotely install ransomware on several corporate networks
+Attack on a web hosting service leading to multiple websites including small businesses being temporarily shut down.
+Exploit of an unpatched weakness in an airlines booking system leaking thousands of customer records
+Attackers gaining access to a banks network through an insecure API in a mobile banking app
+Malware attack on a national postal service disabling tracking systems and causing delays.
+Hacktivist group launching a DDoS attack on a news outlet
+Rogue employees of a data center stealing information to sell on the dark web.
+Smart home devices hacked to spy on household activities
+A spear-phishing attack on a law firm results in highly sensitive client information being leaked.
+A supply-chain attack compromises software used for designing military hardware.
+Attack on an online gaming company
+Elderly targets of a remote access Trojan
+Telecom company suffering an insider attack
+Attack on a food delivery service manipulating order payments and causing massive financial losses.
+Password cracking attack gaining access to an online school portal
+Attack on industrial control systems of a nuclear plant
+Botnet attack on a hit social media platform causing a significant loss in ad revenue.
+Use of deepfakes to misrepresent key political figures
+Public Wi-Fi compromised with Man in the Middle (MITM) attack
+Attack on a travel booking site leading to compromise of travelers itinerary details and payment information.
+Hack on a national weather satellite system leading to inaccurate forecasting and flight interruptions.
+Attack on electric grid management systems causing power outages.
+Attack on a major software company’s patch update system spreading malware to all clients.
+Attack on an online recruitment portal
+Hacking networked security camera systems of a big corporation for corporate espionage.
+Attack on a Smart TV manufacturer
+Industrial espionage through hacking of a car manufacturer
+Fraudulent digital certificates issued to enable undetectable phishing websites.
+Attack on a music streaming service leading to user account and password theft.
+Exploiting vulnerabilities in a popular mobile OS
+Attack on a health insurance company
+Hack on a dating app revealing personal preferences and match information.
+Intrusion into a police departments records system
+WiFi Pineapple attack on a coffee shop stealing personal and financial data.
+Attack on a digital library platform leaking user reading preferences and private notes.
+Rogue AI attack identifying and exploiting vulnerabilities across networks.
+Attacks on a network of self-driving cars causing traffic chaos.
+Attack on a satellite communication system disrupting global communications.
+Hacking a national election voting system causing mistrust in the voting process.
+State-sponsored attack on another countrys stock exchange causing financial market chaos.
+A massive IoT botnet attack disrupting global internet services.
+Attack on a major food supply chain causing food shortage.
+Attack on an auction site platform rigging bid prices.

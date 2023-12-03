@@ -1,0 +1,49 @@
+A CEO opens a seemingly harmless email attachment which releases a keylogger into his system
+A universitys IT department becomes the target of a spear phishing attack
+An online shopper receives an email claiming to be from a popular e-commerce site asking to update payment details on a redirected fraudulent website.
+A teenager provides his online gaming credentials in a fraudulent email posing as game support
+An unsuspecting user downloads a security software recommended by a scam email
+A corporate executive falls victim to a BEC (Business Email Compromise) scam
+An individual receives a scam email appearing to be from the lottery commission
+A newly employed staff member reveals bunch of passwords to an email posing as the companys IT support
+A cryptocurrency investor gets tricked by an email misleading him to a fake website where he unknowingly exposes his private keys and loses his investments.
+A taxpayer is swindled into providing his social security number to an email scam claiming to be the IRS
+A traveler is fooled by a scam email offering discounted flight tickets and transfers his money
+A job seeker provides personal and professional details in response to a scam job offer email
+A charity worker receives an email asking for donation on a counterfeit website
+A freelancer receives an email from a potential client attached with malware
+A social media influencer gets emailed a phishing link disguised as a sponsorship deal
+An attorney gets their files locked by ransomware from a phishing link
+An online teacher gets tricked into downloading a malicious software and loses control of the webcam
+A military official receives a honed spear-phishing email
+A mobile user installs an app recommended via email which contains spyware
+A child clicks on an email offering free game credits and unintentionally exposes their parents credit card information attached to the account.
+A car salesman receives a phishing email mimicking his banks official communication
+A software developer gets duped by an email asking him to participate in a bogus programming contest and unknowingly provides his IP.
+A real estate broker clicked on a link from a false property listing
+An artist receives an email offering to publish his work on a false platform
+A restaurant owner unknowingly downloads a trojan from an email offering a free menu designing software package.
+A local politician receives an email from a pretended ally which contains malware capable of data harvesting.
+A small businessman reveals his bank details after receiving a phishing mail disguised as a financial assitance program.
+A student athlete receives a mail with a training program attached which turns out to be malware
+An election candidate gets a mail promising a boost in social sentiment
+A student council member gets a phishing mail promising scholarship funds and unintentionally downloads a keylogger onto his device.
+A stock trader receives an email with supposed insider tips attached with a trojan.
+An employee shares sensitive information with a mail mimicking as companys HR
+A financial manager receives a phishing mail with a false invoice from a supposed supplier.
+A government official receives a well-crafted phishing mail pretending to be from the health department with COVID-19 updates but containing a hidden ransomware.
+An online seller provides shipping details after receiving a fake auction winning email.
+A fitness trainer provides account credentials after receiving an email claiming to be from his fitness app.
+A hotelier shares booking details after receiving a well-disguised phishing email.
+An airline pilot exposes his flight details after receiving an email from a fake airlines communication.
+A car rental agency provides their rental details and addresses after an email claiming to help optimize their online presence.
+A news reporter receives an email claiming to have a hot lead but ends up downloading malware.
+Spam email at a nuclear facility leads to concerns about sabotage.
+University researchers accidentally gives the location of the research site due to a phishing email.
+An accountant accidentally downloads a keylogger after opening a scam email.
+A student falls surprise lottery scam and provides her bank account number to verify her identity.
+A retailers website is brought down by an email-borne DDoS attack.
+A major tech vendors support staff gives up password after falling for a well-crafted spear-phishing attack.
+A fashion designer provides her design ideas to a phishing email promising an international showcase.
+An online streamer provides his stream key after a phishing email claiming to be from streaming platforms support.
+A social workers device gets infected after he clicked on a link from an email claiming to help children abroad.

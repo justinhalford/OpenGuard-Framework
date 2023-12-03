@@ -1,0 +1,50 @@
+A neighbor installing a surveillance camera that points directly into your living room.
+A stranger following you around and taking pictures without your consent.
+A landlord entering your rental property without giving proper notice.
+A maintenance worker entering your hotel room while youre absent and going through your personal belongings.
+Telemarketers continuously calling your personal number without permission.
+When parents secretly install a tracking device in their teenagers car.
+Direct mail companies sending unsolicited mail containing personal information.
+Your roommate reading your personal diary without your knowledge.
+A co-worker eavesdropping on your confidential conversation and revealing it to others.
+An unknown person is constantly watching your house from the streets and recording activities.
+An application secretly accessing your phones contacts without permission.
+Your internet service provider is selling your browsing history to advertisers.
+A hacker taking over your email account and sending spam emails to all your contacts.
+Video streaming services asking for unnecessary personal information during signup.
+A person sneaking a look at your computer screen while youre typing in your password at a public place.
+Employers monitoring personal social media accounts of their employees without consent.
+Identity thieves getting a hold of your personal information from discarded bills.
+A rogue website installs cookies tracking all your web activities.
+An online game secretly using phone microphone to listen to personal conversations.
+A dating app revealing your precise location to other users.
+A credit agency mistakenly releasing your financial information to a third party.
+Criminals installing card skimmers on ATMs to steal card details.
+A financial institution using customers spending data without their consent for marketing purposes.
+Your tax attorney sharing your financial information with others without your permission.
+Wearable technology transferring your purchasing habits data to marketing companies.
+A rogue bank employee selling customers financial information.
+Smart TVs sharing your viewing habits with advertisers.
+Insurance companies prying into your medical history without consent.
+A grocery store tracking your purchases and selling that information to third-party companies.
+Your credit card details stolen after using an unsecured WiFi network.
+A hospital employee leaks patients sensitive health data.
+Pharmacy selling patients prescription details to third parties.
+Fitness trackers sharing your health data with insurance companies.
+Confidential mental health records accidentally posted on a public website.
+A medical institution performing genetic tests without informed consent.
+Smart health devices transmitting your personal health information without encryption.
+A disgruntled employee posting patient data on social media.
+Pharmaceutical companies gaining unauthorized access to patients medical records for research.
+Clinical trial data of patients shared with companies without their consent.
+Abuse of telemedicine platforms that result in unauthorized access to sensitive patient information.
+Employer monitoring employees personal emails on company devices without consent.
+Recording private conversations in a meeting without informing all participants.
+A company using GPS to track their employees location outside of work hours.
+Secret video surveillance in employee rest areas.
+Employers searching through an employees desk and personal items.
+An employer using a keylogger to monitor everything an employee types.
+An employee discovering confidential information because of a lack of computer access controls.
+Background check performed without the explicit consent of the job applicant.
+An employee’s personal data stored in the company database accessed by unauthorized personnel.
+Unauthorized access to employment records revealing sensitive personal data.

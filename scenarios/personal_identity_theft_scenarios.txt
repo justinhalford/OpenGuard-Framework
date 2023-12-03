@@ -1,0 +1,50 @@
+An individual purchases an item from an online store using a stolen credit card causing financial losses to the victim.
+A scammer uses someone elses PII (Personal Identifiable Information) to open multiple credit cards taking out loans in the victims name intentionally defaulting and ruining the victims credit history.
+An online user receives an email posing as a legitimate organization tricking him into providing personal information leading to potential financial damages and identity theft.
+A thief steals a childs social security number to commit fraud ruining the childs future credit record.
+A criminal obtains someones social security number to fraudulently file a tax return and claim the refund.
+Someone uses another persons health insurance information to acquire medical treatment leaving the victim with potential legal and financial repercussions.
+A fraudster gains unauthorized access to a persons bank account leading to significant financial loss.
+A criminal obtains a persons Medicare ID and fraudulently collects drugs for sale and use jeopardizing the victims health insurance coverage.
+A con artist uses a deceased persons information to acquire properties assets or carry out other forms of fraud.
+A hacker infiltrates a persons social media account stealing personal information and using it to manipulate or defraud contacts.
+An attacker hacks into a persons computer steals confidential information and uses it for illegal purposes jeopardizing personal security and causing financial damages.
+A cyber criminal hacks an account and make unauthorized transactions.
+A scammer uses stolen personal information to apply for jobs affecting the victims employment record and possibly leading to legal consequences.
+A thief uses someones credit card information to make fraudulent purchases.
+A criminal intercepts a users data transmitted on a public Wi-Fi network possibly stealing credit card numbers or passwords.
+An identity thief uses another individuals information to apply for loans and leaves the victim in debts.
+A scammer convinces the victim to transfer cryptocurrency to their account emptying out the savings.
+A criminal acquires a victims personal information from a lost passport or drivers license potentially using it for illegal activities.
+A fraudster steals ownership of a property by changing the land registry details causing significant financial damage.
+A scammer uses a stolen ID to rent property and leaves without paying the duos and damages the property.
+A criminal uses a victims identity to make false insurance claims and collects the payment.
+An RFID scanner is used to steal credit card information leading to likely financial loss.
+A scammer opens a utility account in someone elses name and doesn’t pay the bills.
+A fraudster pretends to be helping the victim recover funds lost in a previous scam tricking them into paying advance fees.
+A criminal uses a victims information to acquire phone contracts subsequently resulting in billing errors and complications.
+A hacker intercepts a transaction email changes the bank details and causes financial loss.
+A cybercriminal steals biometric-identifying information such as fingerprints or retinal patterns posing serious privacy and security risks.
+Thieves impersonate businesses to deceive customers damaging the companys reputation and perhaps cause financial harm.
+Fake academic degrees and certificates are obtained using another persons identity potentially leading to legal issues.
+Scammers use an identity theft to lend money on peer platforms or initiate crowdfund.
+Criminals steal in-game items and currency by obtaining a gamers login details causing distress and potential financial loss.
+Fraudsters pose as victims of natural disasters to collect aid decreasing resources for those actually affected.
+Criminals forge a victim’s documents to arrange a forced marriage.
+A criminal successfully performs a SIM swap gaining access to a persons calls and messages leading to potential privacy and security risks.
+A criminal uses a victims identity to obtain a driving license and commits traffic offenses in the victims name.
+An individual creates a fake online dating profile using stolen images and information.
+An individual uses someone else’s SSN to gain employment creating a criminal record and credit problems.
+A thief uses stolen information to register and cast a vote manipulating election results.
+Fraudsters pose as military veterans to gain benefits effectively depriving actual veterans of their due compensation.
+A criminal uses stolen certification credentials to falsely practice as a licensed professional.
+A shoplifter uses a stolen identity to return stolen goods for cash.
+Hackers gain access to a persons smart home devices via weak passwords potentially leading to privacy and security violations.
+Criminals use AI-based synthetic media to create a realistic fake video or audio defaming the victims public image.
+Automated bots mimic human behavior and trick people into giving out confidential information causing potential privacy violations and financial loss.
+Hackers exploit vulnerabilities in a victims cloud storage gaining access to personal photos and documents.
+A hacker overwhelms a users online service with traffic causing disruption of services.
+Hackers intercept communication between a user and a website potentially accessing private information and causing privacy breaches.
+A coordinated DDoS attack on critical infrastructure like power grids or health services causing wider disruption and potential harm.
+An individual unknowingly installs malicious software on their device resulting in data loss and potential financial harm.
+A hacker gains unauthorized access to an individual’s home network and accesses sensitive data and controls devices.

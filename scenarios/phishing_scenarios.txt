@@ -1,0 +1,48 @@
+A phishing attack disguises as an internal tax department’s email urging employees to submit their personal information for annual tax computation.
+A phony social media notification
+Scammers send emails impersonating a popular streaming service
+A spoofed website resembling a popular online bank seeks log-in details of users after an email blast indicating preventive maintenance of servers.
+Scientists conducting virus research receive seemingly legitimate emails containing the latest research documents but instead they contain malwares tailored to steal sensitive data.
+A malicious app masquerading as a COVID-19 tracker prompts users to enter their sensitive health
+An email from a hacker impersonating the companys CEO asks an employee to make a wire transfer to a third-party account.
+A spear-phishing campaign targets a high-ranking official at a global tech company
+An email claiming to be from the countrys tax department directs taxpayers to a malicious website that steals their identity and financial details.
+A phishing campaign exploits a national crisis
+A phishing email disguised as a critical software update installs a malicious backdoor on university computers
+A deepfake video impersonates a countrys leader and encourages users to fill out a form for government aid but is designed to steal sensitive information.
+Scammers send phishing emails offering a large sum of money from a lottery or inheritance
+An attacker uses vishing techniques to impersonate an IT support agent
+A freelancer receives an email from a scammer posing as a potential client who sends a malicious document that installs a keystroke logger.
+A fake job recruitment email takes recipients to a website that steals personal information and credentials.
+Scammers setup a Wi-Fi hotspot named like a public place
+A spear-phishing attack targets a cryptocurrency wallet owner
+A rogue software alert prompts users to install a revamp of their OS but instead hosts a Trojan horse.
+Phishing email impersonating the World Health Organization urges recipients to download a document detailing safety measures against a disease but it carries a malware.
+Students receive an email from a fake faculty email id
+Scammers impersonate an IT helpdesk and send bulk messages to company employees
+An email disguised as a customer complaint tricks a business owner to reveal their bank details for transaction reversal.
+An online shopper receives a phishing email disguised as a purchase invoice
+Phishing texts posing as urgent bank messages trick victims into believing their account has been breached and ask them to verify their identity.
+Cloned Wi-Fi SSID tricks users to connect
+An email scam targets the elderly
+Malicious emails incorrectly inform recipients they have broken copyright laws and demand payment via a link to avoid legal proceedings.
+A phishing campaign uses timely news of bank mergers
+An email from a hacker posing as a trusted organization invites targets to attend a webinar
+An attacker manipulates caller IDs to appear as a family member
+Scammers send an email supposedly from a travel agency offering cashback. When recipients click on the cashback link
+Users receive a phishing SMS claiming to be from a courier company
+A fake cloud storage email warns users that their accounts have almost exceeded their data limit and leads targets to a cloned login webpage.
+A real-time phishing attack pushes users to verify their accounts using two-factor authentication codes that the attacker uses to gain control over their accounts.
+A malicious pop-up scares users by showing a virus-detected alert and urges them to download an antivirus application that actually infects systems with malware.
+Crafted emails resembling software trial expiration prompts users to renew their subscription and steal their credit card information.
+A mass email mimics a popular gaming apps promotional offer and prompts users to click on it and install malicious software.
+Attackers pose as tech support representatives and try to gain access to victims computers by showing fake virus scans.
+Employees receive phishing voicemails that seem to come from senior management and ask them to conduct an unauthorized funds transfer.
+Fake LinkedIn connection requests that actually guide users to log in with their credentials on a hacker-controlled platform.
+An email pretends to be from a co-worker asking for an urgent file sharing through a malicious link.
+Scammers send WhatsApp messages pretending to offer free data packages
+A spear-phishing attack targets a journalist
+An online gamer receives a phishing message about an exclusive in-game item that requires log-in through a link
+Attackers spoof the email id of a real estate company
+A phishing campaign uses public interest in a celebrity scandal to spread malicious links promising exclusive content.
+Scammers impersonate a telephone service providers SMS that prompts users to log into their accounts for necessary updates

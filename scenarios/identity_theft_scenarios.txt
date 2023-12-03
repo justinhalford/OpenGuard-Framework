@@ -1,0 +1,49 @@
+{Social Media} A perpetrator impersonates a victim on social media
+{Online Shopping} A hacker breaches an e-commerce site
+{Email Phishing} An international business key personnel is tricked into sharing confidential business plans to a spoofed email of a client resulting in compromising critical business strategy.
+{Retail} Credit card skimmers installed at a busy retail store capture card details
+{Healthcare} Missing IT safeguards lead a breach in a health agencys database
+{Finance/Banking} Using clever social engineering techniques
+{Travel & Tourism} A top hotel chain unknowingly gives away guests check-in and checkout data
+{Digital Transactions} A hacker breaches a popular mobile payment app
+{Insurance} After hacking into an insurance companys systems
+{Government} Cybercriminals gain unauthorized access to a government citizens database
+{Job Portals} Scammers post fake job listings to collect personal and financial details from unsuspecting job seekers.
+{Internet Service Providers} Hackers breach an ISPs database
+{Educational Institutes} Undercover identity thieves hack universities student records database
+{Rental Services} The personal and financial data from a car rental companys database is stolen
+{Apps and Games} A seemingly harmless mobile game collects sensitive user data without user consent and sells it to the highest bidder.
+{Charity} Scammers set up phony charities after natural disasters soliciting donations and obtaining financial details from donors.
+{Grocery Stores} Loyalty card databases at leading grocery chains are breached
+{Cellular Services} Mobile phone accounts get hijacked through SIM swapping
+{Postal Services} Identity thieves steal mail
+{Real Estate} Hackers infiltrate a real estate agencys database
+{Funeral Services} Identity thieves target obituaries to gather information about the deceased and commit identity theft.
+{Utility Services} Utility services are duped into changing the registered details of a consumer
+{Catalog Shopping} Hackers exploit a loophole in catalog companys order placement process
+{Law Enforcement} Fake caller IDs trick law enforcement officers into giving away sensitive case details
+{Tax Services} Identity thieves file fraudulent tax returns in a victims name
+{Veterinary Services} Personal details of pet owners are stolen from a vet clinics database
+{Child Identity Theft} Perpetrators steal identities of children due to their clean credit slates and operate under their names for years undetected.
+{Browser Cookies} Cybercriminals use cookie-jacking
+{Medical Identity Theft} Thieves impersonate victims to receive medical services
+{Cloud Storage} A leak in a popular cloud storage service exposes users’ personal files
+{Private Browsing} While using an insecure VPN
+{Foreign Nationals} Scammers trick foreign nationals into sharing their passport details and visa status
+{Franking Services} Hackers manipulate online franking services and generate fraudulent stamps.
+{Wi-Fi Networks} Hackers use Man-in-the-Middle attacks in insecure public Wi-Fi networks to steal personal information.
+{Domain Theft} A popular brand’s website domain gets stolen
+{Dating Websites} Scammers on dating websites use catfishing techniques to lure victims into sharing intimate pictures and personal details.
+{Blockchain Technology} Hackers use a phishing attack to steal bitcoin from a users digital wallet.
+{Cryptocurrency Exchanges} The system of a major cryptocurrency exchange is compromised
+{Debt Collection Services} Scammers posing as debt collectors solicit payment information from victims using intimidation.
+{College Admissions} Fake college admission emails trick parents into divulging sensitive financial information under the guise of financial aid application.
+{Peer-to-peer Networks} Sensitive personal files are unknowingly shared on peer-to-peer networks.
+{Digital Identity Cards} Fake digital identity card apps steal users identity information under false security pretenses.
+{Airline Services} Scammers send fake flight confirmation emails soliciting passport details from unsuspecting travelers.
+{Social Engineering} Engineers fall victim to pretexting
+{Printer Networks} Hackers gain control of a printer network in a corporate office
+{Podcast Services} Fraudsters subscribe users to expensive podcast services without their consent
+{Virtual Meetings} Scammers infiltrate important virtual meetings
+{Public Records} Hackers manipulate city councils public records
+{Digital Inheritance} After a wealthy persons death

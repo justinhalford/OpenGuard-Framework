@@ -1,0 +1,49 @@
+An unsecured WiFi network at a coffee shop allows a casual hacker to steal personal emails and social media passwords from connected users
+A call center agent decides to sell customer data to a competing firm
+A dating app suffers a data breach due to weak security protocols
+A cloud storage providers encryption algorithm is cracked by a group of hackers
+A university student accidentally leaves his research data containing sensitive patient information open to the public on a shared lab computer
+A major credit rating agency experiences a data breach
+A gamers account is hacked and personal details entered for in-game purchases are stolen
+A municipality’s water system is hacked due to insecure remote access
+An employee of an insurance company loses a laptop containing personal and financial data of its clients
+An e-commerce platform is hacked
+A hospital administrator inadvertently sends an email containing patient data to the wrong person
+Inferior security measures at an online tutoring platform lead to a data breach
+A tax preparation firm suffers a data breach
+A retailers CCTV footage is leaked
+An unauthorized access to a governments welfare database exposes the personal details of millions of citizens
+A celebritys phone is hacked
+An IoT manufacturers lax security measures lead to a major data leak
+An online survey platform accidentally exposes respondents details and responses
+A travel booking site leak reveals travelers planned dates and locations
+A health monitoring app suffers a breach of its users health records
+An employee of a payroll processing company sends unencrypted payroll data to a wrong email address
+A software bug in a courier firms tracking system exposes customers personal details and package information
+Cloud data of a mental health app is breached
+A public librarys database is breached
+A broadcasting service providers customer database is compromised
+A charity organizations donor list is leaked
+A cyber attack on a telecommunication company exposes users’ call records and personal messages
+An energy companys customer portal is hacked
+A social networking site’s user database is breached
+A personal trainers client database is hacked
+A funeral homes customer database is compromised
+A political survey companys data is breached
+A renowned law firm experiences a data breach
+User data from a vehicle navigation service is compromised
+A cyber attack on a DNA testing company exposes customer’s genetic data and personal identification information
+An airlines database is hacked
+A security flaw in a video conferencing platform leads to unauthorized access into private meetings
+A cyber attack on a police department reveals confidential records and informants identities
+A data leak at a fertility clinic discloses patient’s personal details and medical records
+An IoT home security system is compromised
+An Internet service provider’s data breach allows hackers to view users browsing history and personal identifiers
+A music streaming service suffers a data breach
+A cyber attack on a national postal system exposes senders
+A coffee shops loyalty program database is compromised
+A cloud-based file sharing service experiences a data breach from an insider threat
+An online ticket booking system’s data breach uncovers user credit card details and booked event data
+A cloud-based HR system suffers a data breach
+A cloud-based photo printing service fails to secure its network leading to sensitive personal photos of users being circulated on the internet
+“A childcare centres online system is hacked

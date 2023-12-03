@@ -1,0 +1,49 @@
+A disgruntled employee decides to sabotage operations by handing over high-level access credentials of the primary company database to a competitive organization.
+A major e-commerce site suffers an SQL injection attack resulting in unauthorized access of millions of customer credit card details
+An employee loses a USB containing database access codes
+A trusted customer-facing mobile app has a hidden vulnerability that cybercriminals exploit to gain unauthorized access to a vast database of personal user data.
+A bank’s database is breached by a notorious hacking group who exploit a software bug to gain unfettered access to account holders details and transaction histories.
+A reputable education institution faces unauthorized database access due to a phishing scam on staff emails
+A cloud-based sales company experiences unauthorized access to customer databases
+The databases of a travel agency are breached
+A terrorist group gains unauthorized access to government military databases
+A well-planned brute force attack on a police forces database unearths private citizen information
+A global pandemic tracking applications poorly secured database is accessed unauthorizedly
+A telecom company inadvertently exposes databases to the internet
+The mainframe of an international space organization is hacked
+A municipalitys utility database is encrypted by ransomware
+A crypto-currency exchange company’s database gets breached due to weak encryption protocols
+A cyber attack on an airlines database compromises customer passport details and flight schedules
+A gaming companys user database is accessed without authorization
+A database storing sensitive information about a hyped-up tech product is breached
+Security exploit in a widespread IoT devices backend database leads to unauthorized access and control of the devices.
+An energy companys critical database is unauthorizedly accessed due to an employees weak passwords
+A childs smart toy company experiences a data breach
+An unauthorized database access in a biometric systems provider increases the risk for identity theft.
+An insurance companys database is breached
+Unauthorized access to a political partys voter database manipulates election results.
+A popular online tutoring platform suffers unauthorized access to its database
+Large-scale unauthorized access to the database of a food delivery app discloses users food preferences and home addresses.
+A widespread DoS attack on several databases of a countrys e-governance portal disables essential citizen services.
+An email service providers database gets breached
+An AI-driven drone systems database hack allows unauthorized individuals to take over control of drones
+A breach in a pharmaceutical companys database discloses confidential information about groundbreaking research on life-saving drugs.
+A citys surveillance system database is breached
+Unauthorized access to a digital librarys database prevents students worldwide from accessing study material.
+A streaming services database breach leads to unauthorized access of user profiles and viewing preferences
+A data breach in a genetic testing database exposes confidential DNA data
+A celebrity database hack leaks performers private information
+Unauthorized access to national census data reveals sensitive demographic information.
+A cyberattack on a dating apps database discloses user preferences and personal communication
+A breach in a nuclear plant system database could potentially lead to a catastrophic meltdown.
+Online ticket booking portals database gets unauthorizedly accessed
+A cyber intrusion into a car manufacturing companys database exposes critical vulnerabilities of certain models.
+A non-profits database breach reveals donors financial records and personal information
+A major publishing houses database is hacked
+Unauthorized access to a luxury brands database discloses customer profiles and purchase history
+Popular blogging platforms database gets breached
+A coordinated attack on meteorology databases around the world damages weather forecasting systems.
+A personal fitness app’s database is breached
+Breach of a popular e-book’s database reveals reading patterns and preferences of millions of users worldwide.
+Access to an immigration database results in breaches of international passengers movement patterns.
+Unauthorized access to a governmental health departments database reveals confidential patient information related to highly contagious diseases.

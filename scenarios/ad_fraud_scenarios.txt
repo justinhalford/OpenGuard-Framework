@@ -1,0 +1,47 @@
+A fraud-ring uses a sophisticated click fraud algorithm that generates artificial clicks on mobile ads
+A shady ad agency manipulates viewability metrics of their digital ads by keeping the ad in a continuously loading state
+Fraudsters use domain spoofing to push useless and potentially dangerous ads on popular websites
+Miscreants manipulate ads ad stacking
+An ad network unknowingly falls victim to pixel stuffing
+In-app ad fraud disrupts the mobile gaming experience
+Fake news sites use generated traffic and clicks to claim inflated ad revenues and spread disinformation.
+Scammers indulge in lead generation fraud by selling fake leads to businesses
+Fraudulent advertisers publish ads on underground networks and other unethical platforms for illegal products
+Using hit inflation attacks
+A malware-laden ad appears on a popular online shopping website
+Fraudsters simulate human-like engagement and fake traffic using AI-bots to trick ad agencies into thinking their ads are performing well.
+Ad scammers employ techniques like typosquatting
+Sophisticated fraudsters use IP spoofing to register fake clicks and visits from desirable locations
+Bad actors create phantom websites
+Unethical eCommerce retailers pay for bad reviews of competitive products
+A phishing ad appears on a reputed job search website
+Cybercriminals use online ads for tech support scams
+Ad fraudsters use a new app to collect location data from devices to create a false appearance of ad engagement from popular locations.
+Fraudsters hijack PPC campaigns by redirecting users to bogus websites filled with malware.
+In an instance of malvertising
+A malicious VPN app advertised on social media steals user data instead of providing privacy.
+Fake celebrity endorsements are used to promote illegitimate products
+Fraudulent academic services advertise heavily
+Mobile device hijacking is carried out via an app
+A cloud-based ad fraud operation is discovered
+Fraudulent partnerships are formed between publishers and ad networks for mutual benefit
+Ad fraud operation warps the attribution modeling in digital marketing
+Social media ad scam targets elderly people
+A seemingly harmless ad on a music streaming service prompts downloads of a shady app
+Popup ad scam tricks users into taking a faux survey while collecting sensitive personal information covertly.
+Ad fraud scheme creates several identical websites
+A cryptocurrency scam using online ads deceives investors
+Ad fraud ring uses advanced tactics like device fingerprinting and behavior modeling to mimic real user behavior and dodge security measures.
+In-app purchases scam manipulates ads in popular kids game titles
+Fake ads on online marketplaces sell non-existent products
+An aggressive ad scam targets popular gaming forums
+A weight loss supplement ad uses false claims and celebrity endorsements
+Ad fraudsters exploit the pre-bid system in real-time bidding
+A spam botnet launches a massive ad click-fraud operation
+A sophisticated ad fraud operation floods online classifieds with fake listings
+Malicious actors use ad retargeting to create a false sense of security and credibility
+Political ad fraud deceives voters who engage with the ad into revealing their personal information.
+A dating ad scam targets lonely individuals
+Ad fraud operation manipulates organic listings on popular e-commerce platforms
+An online education portal advertises false accreditation
+A mobile ad scam automatically subscribes users to costly premium services without their consent

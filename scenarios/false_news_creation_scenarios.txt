@@ -1,0 +1,50 @@
+A malicious entity creates a website that mimics a reliable news source
+Someone posts images manipulated through deepfake technology
+A foreign state actor employs internet trolls to spread rumors about a major candidates secret connections to their regime.
+A domestic extremist group releases doctored audio claiming to prove a candidates racist sentiments.
+A seemingly credible source leaks a document alleging a candidate stole campaign funds.
+The intentional spread of rumors suggesting widespread voter fraud.
+Release of fake polls suggesting a candidate has an insurmountable lead
+Creation of clone social media accounts of influential reporters
+Spreading false rumors about changes in election dates or polling locations.
+TV news graphics are doctored to falsely depict a candidate supporting contentious issues.
+Fabrication of a scandal about a political candidate
+Misinformation claiming certain religious or ethnic groups cannot vote.
+Spreading misinformation about candidates political stance on immediately relatable local issues.
+Campaign bots create fake trending hashtags
+Photoshopping of a candidates image onto controversial or inflammatory scenes.
+Distortion of a candidates policy stances
+Use of an impersonator to stage a public misstep
+False reports of a candidates death
+Manufactured evidence implying a candidate has evaded taxes.
+Modified campaign videos to show candidates saying harmful things they never said.
+Fabricated claims of a candidates involvement in human rights abuses.
+Leaked video impersonating a candidate making derogatory comments about certain racial or ethnic groups.
+False reports about a partys intent to cut social benefits if they win the election.
+Manipulated news suggesting a candidates intent to start a war if elected.
+Forged messages suggesting a candidates involvement in a sex scandal.
+False claims that a candidate is terminally ill.
+Tampered recordings portraying a candidate supporting terrorism.
+Spread rumors of corruption and bribery within a candidates campaign team.
+Distorted newspaper headlines implying a candidate is under investigation by authorities.
+Concocted conspiracy theory about a Candidate linked to child exploitation rings.
+False statements alleging a candidates involvement in drug trafficking.
+Created fake news suggesting a candidates spouse is filing for divorce due to infidelity.
+Spread false claims about a candidates plans to abolish constitutionally protected rights.
+Leaked doctored financial records suggesting a candidates financial instability.
+Created a false narrative about a candidates secret business interests with a rival nation.
+Manipulated news showing the candidate ridiculing disabled people.
+Igniting unnecessary panic by wrongly alleging that a candidate has been kidnapped.
+Deceptive news stories framing a candidate in the middle of a gun scandal.
+Suppressing voter turnout by propagating fake news about a lethal disease breakout on voting day.
+Using deepfake technology to create offensive or incendiary comments
+Posting false images suggesting a significant candidate died in a car crash.
+Spreading manipulated images appearing to depict a candidate in compromising positions.
+Promotion of fake story alleging a candidate aims to censor the media.
+Falsified allegations suggesting candidate is a secret agent of a foreign entity.
+Fabricated news that the candidate plans to implement draconian laws once in office.
+Distorted footage falsely suggesting a candidate physically assaulted a protester during a rally.
+Fake news implying that a candidate is threatening to cut all scientific research funding.
+Intentional promotion of false information about a candidates personal life to depict them as a neglectful parent or spouse.
+Fabrication of a false news story alleging that a candidate was previously involved in an organized crime syndicate.
+Promotion of misquoted interviews taken out of context to misrepresent a candidates views and beliefs.

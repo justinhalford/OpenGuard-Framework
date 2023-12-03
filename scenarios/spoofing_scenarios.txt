@@ -1,0 +1,49 @@
+A hacker spoofs a company CEOs email and sends out requests for sensitive information.
+Malware is sent to a business through a fake software update
+A group of hackers spoof the website of a major bank to steal customers login information.
+A hacker spoofs a popular social media app to gain access to users personal information.
+A scammer impersonates a customer support agent from a popular online platform and convinces users to hand over their login credentials.
+A hacker spoofs a service providers email to send phishing emails
+A spoofed WiFi network named after a popular coffee chain is setup to steal users credit card information.
+A scammer sends out mass emails posing as a popular retailer offering exclusive discounts
+A fraudulent website that looks identical to a popular online marketplace is created to steal customer data.
+Hackers spoof GPS signals causing widespread disruption to navigation systems
+A malware spread through a spoofed software update cripples a citys public utility infrastructure.
+Hackers send out a phishing email impersonating a users friend or family member in distress
+A cyber-criminal spoofs a users IP to trick their network into granting them access.
+A hacker spoofs an employees mobile device to gain access to confidential company network.
+A citys emergency service number is spoofed
+A hacker spoofs a software vendors website and tricks thousands into downloading malware-infected product.
+A cyber-criminal spoofs a government officials email to send out phishing emails.
+An attacker spoofs a cloud service provider to gain unauthorized access to users stored data.
+A scammer creates a fake tax service website during the tax season to rob users of financial data.
+A supplier firm’s email is spoofed and used to send invoices
+Hackers spoof the voicemail system of a company to send phishing messages.
+A malicious actor spoofs an ISPs alert to trick users into downloading malware onto their systems.
+A scammer spoofs a charity organizations website and solicit donations
+An individuals ID is spoofed to carry out fraudulent activities in their name
+Hackers spoof a medical software system to alter patient details
+A digital ad network is spoofed to distribute harmful malware.
+A scammer spoofs a hotels hotline to take fraudulent bookings and siphon off money.
+An unsuspecting user downloads a spoofed antivirus software that instead installs a Trojan on their machine.
+A hacker spoofs the IP address of a trusted node in a cryptocurrency network
+A scammer spoofs a utility companys email to send fraudulent bills
+A cyber-criminal spoofs a universitys website to trick students into providing their sensitive details.
+A fraudster spoofs a telecom companys network and sends SIM swap requests
+A scammer spoofs airline websites offering fake discounted tickets
+A hacker spoofs a salary portal
+A cyber-criminal spoofs the SMS system of a bank to send phishing messages to users.
+An unwarranted attacker spoofs the online gaming services and steals in-app purchases.
+A hacker spoofs a credit score website
+A fraudulent actor spoofs a delivery services tracking system
+A cyber-criminal spoofs DNS servers causing widespread internet outage.
+A hacker spoofs a web conferencing platform to gain unauthorized access to meetings.
+A cloud storage companys email gets spoofed by hackers to deceive users into handing over their login details.
+A scammer spoofs email of a senior executive to trick HR into sharing employee data.
+Cyber thieves spoof a banks mobile app and steal user information leading to massive financial theft.
+Cyber scammers spoof an online auction site causing bidders to pay for items that dont exist.
+Hackers spoof a fitness app capturing users health information
+Hackers send phishing emails posing as a customer care executive from a reputed tech company to steal data.
+Spoofed remote desktop software is used by hackers to take unauthorized control of users computers.
+Hack fraudsters spoof an internet banking portal
+A hacker spoofs a popular e-commerce website during holiday season

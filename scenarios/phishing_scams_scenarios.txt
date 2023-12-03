@@ -1,0 +1,50 @@
+A scammer calls an individual claiming to be from a reputable tech company stating that there is a problem with their computer that needs urgent attention thereby attempting to gain access to personal or financial information.
+A user receives an email that appears to be from their bank stating that some suspicious activity has been detected on their account. They are told to click a link to verify their identity which actually leads to their credentials being stolen.
+A scammer posts a bogus job offer online then conducts an interview and asks for personal information including social security numbers and bank account details under the guise of direct deposit setup thereby stealing personal details.
+As part of this scam the victim receives a seemingly legitimate email stating that they are eligible to receive a vaccine. However to confirm their appointment the recipient is requested to enter personal and/or financial information.
+A small business receives an invoice from a vendor that seems a little off. Upon clicking the links in the invoice to verify their financial information is stolen.
+A user encounters a fun-looking quiz on social media. However the quiz requests personal information as part of the participation or to claim the prize leading to identity theft.
+A scammer pretends to be interested in a romantic relationship with a person online to trick them into handing over their personal and financial information.
+A taxpayer receives a call from a scammer pretending to be a tax agency representative stating that there is a problem with their tax return. They are then asked to reveal sensitive information leading to identity theft.
+Hackers successfully launch a phishing attack on a schools IT system to gain access to student and staff data.
+A person receives an email stating they have won a lottery or sweepstakes that they didnt enter asking them to provide personal or financial information to claim the prize thereby exposing them to potential fraud.
+A renter is targeted by a phishing email stating they owe overdue rent and must pay immediately via a provided link which results in theft of credit card data.
+A user receives an email pretending to be a charity asking for donations in the aftermath of a calamity but the link provided leads to a fake site where card details are stolen.
+A fraudster listing a vacation rental requests advance payment or private information over email for booking.
+A pop-up insists that a users software is outdated and prompts them to click a link to install the update thereby installing malware.
+An individual receives a promotional email from their favorite shopping website offering a big discount but the link collects their credit card details.
+A user receives a mail stating a package delivery failed because of insufficient postage fees with a link to pay resulting in them providing their credit information to scammers.
+A user receives an email purportedly from a well-known cryptocurrency exchange stating a need to re-confirm their account details leading to theft of cryptocurrency.
+A scammer sends a phishing email pretending to be a debt collector and asks for immediate payment via a fraudulent link.
+A customer receives an email from a utility company for an overdue bill. The link provided siphons off banking data as the customer attempts payment.
+An individual gets an invitation to a conference via email. The link redirects them to a cloned website where theyre asked for personal and payment details to register.
+An email informs individuals that theyve won a contest that requires entering personal details to claim the prize which are instead stolen.
+A user receives an invitation to a seemingly professional webinar which requires registration including payment details - which are subsequently stolen.
+A shopper receives a mail stating they are due for a shopping refund. When clicking on the link to claim they are tricked into providing their card details.
+In this scenario an unsuspecting individual receives an email claiming a trial period of a subscription service is about to end and will be charged unless they cancel which leads to the theft of financial data.
+A trickster sends an email looking like its from a well-known service provider claiming that suspicious activity requires users to verify their passwords resulting in stolen credentials.
+An individual receives an email about an exciting business venture requiring only a small initial investment. The fraudsters steal money and personal data.
+An individual selling an item online gets an email from a potential buyer who wants to pay via a provided link which is a phishing site.
+Here a reputable gym chains IT systems are breached possibly compromising membership and payment data.
+A person receives an email suggesting a mistaken payment has been made into their account and must be returned by clicking a link leading to the theft of account details.
+An email arrives stating the recipient is eligible for a government grant and has to provide account details to receive it which leads to stolen bank information.
+A user receives an email appearing to be from the Apple Store indicating a problem with their account that can be resolved by clicking a link which is a phishing site.
+A user is asked to participate in an online survey for a gift card but asked to enter their credit card details as a part of participation.
+A user is emailed about a data breach involving their account causing panic and urging them to click on a link which steals their login credentials.
+A user planning a vacation gets an email appearing to be a hotel confirmation email but contains links that steal credit card information.
+An individual receives an email allegedly from a courier company claiming a failed delivery attempt with a link to reschedule which steals credit card data.
+University staff receive an email claiming to be from the IT department and asking them to log into their accounts via a given link leading to stolen personal information.
+A user receives an email alleging to be from WhatsApp needing verification of their account with a link that steals credentials.
+Amidst a pandemic situation a user planning to work from home receives a seemingly official mail that leads to a phishing site.
+An individual gets a false email from their ISP claiming technical issues on their account that need verification enabling scammers to steal credentials.
+A user receives an email warning that their account will be deactivated unless they verify their details via a provided link which instead steals their information.
+In the aftermath of a natural disaster individuals receive cleverly crafted phishing emails pretending to be from legitimate disaster relief organizations asking for donations.
+An individual receives a scam email pretending to be from their place of worship asking for donations but channelling any funds made to scammers.
+Company employees receive an email with a link that installs ransomware on the companys network threatening to delete crucial data unless a ransom is paid.
+An individual trying to buy a pet online receives an email from a scammer pretending to be a seller. They ask for advance payments and steal credit card information.
+AI is used to impersonate an individuals voice tricking staff into transferring funds into the hackers account.
+A blog owner receives an email seemingly from their hosting provider alerting them to a technical issue requiring them to verify their account leading to login credentials being stolen.
+A user receives a fake notice of an overdue bill from a mobile carrier asking payment via a fraudulent website.
+A friends social media account appears to be cloned and the cloned account sends a message with a phishing link.
+Notifications which look like they are from trusted apps ask to update sensitive information by clicking a link leading to data theft.
+A researcher receives an invitation to a conference related to their field. The registration link ends up being a phishing website collecting personal data and payment information for conference fees.
